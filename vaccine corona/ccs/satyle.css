@@ -1,0 +1,51 @@
+@font-face {
+    font-family: iran;
+    src: url(../vazir-font-v16.1.0/Vazir-Medium.ttf) format(ttf);
+}
+body{
+
+    background-image: url("../pexels-photo-2233992.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: iran;
+}
+
+#div1{
+    background-color: white;
+}
+.img1{
+    width: 13rem;
+
+}
+.form-sabtnam{
+    background-color: white;
+}
+.p-ostan{
+    float: right;
+
+}
+.inp-ostan{
+    float: left;
+
+}
+
+.form-con{
+    display: block;
+    width: 100%;
+    height: 34px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.mybtn{
+  background-color: yellowgreen;
+  /* width: 44.5rem; */
+  float: right;
+}
+.h4{
+    color: #dc3545!important;
+}
